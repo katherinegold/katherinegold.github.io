@@ -8,20 +8,33 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Research"
-    url: /research/
-
-  - title: "Publications"
-    url: /publications/
+  - title: "About Me"
+    url: /
 
   - title: "CV"
     url: /cv/
+        
+  # - title: "CV"
+  #   url: /cv-json/
+
+  - title: "Publications"
+    url: /publications/
 
   - title: "Teaching & Mentoring"
     url: /teaching/
 
   - title: "Outreach"
     url: /outreach/
-    
-  # - title: "CV"
-  #   url: /cv-json/
+
+  - title: "Press"
+    url: /press/
+
+  - title: "Resources"
+    url: /resources/
+    children:
+      - title: "Resources Home"
+        url: /resources/
+      - title: "Chemistry Resources"
+        url: /resources/chemistry/
+      - title: "Astronomy Resources"
+        url: /resources/astronomy/
