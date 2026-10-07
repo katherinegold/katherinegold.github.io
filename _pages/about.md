@@ -24,3 +24,9 @@ My dissertation, *Chemistry in Protoplanetary and Planetary Nebulae: Evidence of
 - Molecular spectroscopy
 - Molecular and isotopic abundances
 - Late-stage stellar evolution
+
+### Interested in inviting me to speak?
+
+I enjoy speaking with classrooms, student groups, and community audiences about astronomy, astrochemistry, and life as a scientist.
+
+If you are interested in inviting me to your classroom or group, please visit my [Outreach](/outreach/) page for more information.
