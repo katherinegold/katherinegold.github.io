@@ -8,10 +8,10 @@ Selected podcasts, interviews, news coverage, and public-facing features about m
 
 ## Podcasts & Interviews
 
-#### The Liuniverse
-#**Podcast guest | 2026, forthcoming**
+### The Liuniverse
+**Podcast guest | 2026, forthcoming**
 
-#Guest on *The Liuniverse*, hosted by Dr. Charles Liu.
+Guest on *The Liuniverse*, hosted by Dr. Charles Liu.
 
 ### Starts with a Bang!
 **Podcast guest | 2025**
