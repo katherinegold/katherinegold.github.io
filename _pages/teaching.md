@@ -116,13 +116,11 @@ I mentored Vrinda on a literature-based comparison of gas and dust properties in
 
 ## Graduate Peer Mentoring
 
-I have also been extensively involved in peer mentoring within the University of Arizona Department of Chemistry and Biochemistry.
+I have been extensively involved in peer mentoring within the University of Arizona Department of Chemistry and Biochemistry.
 
-As a **Project Mentor**, I have mentored one cohort of first-year graduate students and two cohorts of second-year graduate students as they progressed toward Ph.D. candidacy. I have provided guidance on program requirements, oral examinations, fellowship applications, and navigating graduate school.
+As a **Project Mentor**, I have mentored cohorts of first- and second-year graduate students as they progress toward Ph.D. candidacy. I have provided guidance on program requirements, oral examinations, fellowship applications, and navigating graduate school.
 
-I have also delivered oral-exam guidance and practice examinations for graduate students preparing for their candidacy exams.
-
-Beyond my department, I have supported students applying to graduate programs through **Científico Latino**, including graduate-school application mentoring and astronomy graduate-school mock interviews.
+I have also provided oral-exam guidance and practice examinations for graduate students preparing for candidacy, as well as graduate-school application mentoring and mock interviews through **Científico Latino**.
 
 ## Mentoring & Teaching Development
 
