@@ -4,8 +4,6 @@ permalink: /outreach/
 author_profile: true
 ---
 
-# Outreach
-
 Science outreach and public engagement are important parts of my work as an astronomer and astrochemist. I enjoy sharing astronomy with students and community audiences, creating opportunities for people to interact directly with scientists, and helping students explore pathways into science.
 
 My outreach has included virtual classroom visits, public astronomy events, telescope tours, science festivals, student mentoring, public talks, and programs designed to make STEM more accessible to a broad range of learners.
