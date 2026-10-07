@@ -1,4 +1,9 @@
-# Publications
+---
+permalink: /
+title: "Publications"
+author_profile: true
+---
+
 
 View all of my publications on [NASA ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FGold%2C%20K%2FGold%2C%20K%22%20OR%20author_facet_hier%3A%221%2FGold%2C%20K%2FGold%2C%20Katherine%22%20OR%20author_facet_hier%3A%221%2FGold%2C%20K%2FGold%2C%20K%20%20R%22)&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=%20author%3A%22Gold%2C%20K.%20R.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=G67vpS8AAAAJ&view_op=list_works&sortby=pubdate).
 
