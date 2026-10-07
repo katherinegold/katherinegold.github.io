@@ -1,22 +1,26 @@
 ---
 permalink: /
-title: "Katherine Gold"
+title: "About Me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a Ph.D. candidate in Physical Chemistry at the University of Arizona, where I work with Prof. Lucy Ziurys on observational astrochemistry.
+# Katherine Gold
 
-My research investigates the molecular chemistry of evolved stars and planetary nebulae using radio and millimeter/submillimeter observations. I am particularly interested in how molecular material survives and evolves as stars transition from the asymptotic giant branch through the planetary nebula phase.
+I am a Ph.D. candidate in Chemistry at the University of Arizona working with Prof. Lucy M. Ziurys. My research focuses on observational astrochemistry, particularly the molecular chemistry of evolved stars, protoplanetary nebulae, and planetary nebulae.
 
-My work uses facilities including the Arizona Radio Observatory 12 m and Submillimeter Telescope, the IRAM 30 m telescope, and ALMA.
+I use radio and millimeter/submillimeter observations to investigate how molecular material survives and evolves during the late stages of stellar evolution. My work explores molecular inventories, circumstellar chemistry, isotopic abundances, and the relationship between molecular chemistry and nebular morphology.
+
+My dissertation, *Chemistry in Protoplanetary and Planetary Nebulae: Evidence of Nebular Shaping and an Organic Continuum*, examines how chemistry changes as evolved stars transition toward the planetary nebula phase.
 
 ## Research interests include:
 
 - Observational astrochemistry
-- Evolved stars and planetary nebulae
-- Molecular spectroscopy
 - Radio and millimeter/submillimeter astronomy
+- Protoplanetary and planetary nebulae
 - Circumstellar chemistry
+- Molecular spectroscopy
+- Molecular and isotopic abundances
+- Late-stage stellar evolution
