@@ -15,3 +15,5 @@ Resources for chemistry students and researchers at the University of Arizona.
 ## Astronomy Resources
 
 Resources for astronomy students and researchers at the University of Arizona.
+
+[View Astronomy Resources](/resources/astronomy/)
