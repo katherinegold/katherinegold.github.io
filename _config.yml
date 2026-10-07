@@ -26,10 +26,11 @@ author:
   email            : "krgold@arizona.edu"
 
   # Academic websites
-  googlescholar    : "YOUR GOOGLE SCHOLAR URL"
-  orcid            : "YOUR ORCID URL"
+author:
+  googlescholar: "https://scholar.google.com/citations?hl=en&user=G67vpS8AAAAJ&view_op=list_works&sortby=pubdate"
+  orcid: "https://orcid.org/0000-0002-6830-6239"
   github           : "katherinegold"
-  linkedin         : "YOUR LINKEDIN USERNAME"
+  linkedin: "katherine-gold"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
