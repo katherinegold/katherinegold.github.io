@@ -23,9 +23,6 @@ author:
   employer         : "University of Arizona"
   uri              :
   email            : "krgold@arizona.edu"
-
-  # Academic websites
-author:
   googlescholar: "https://scholar.google.com/citations?hl=en&user=G67vpS8AAAAJ&view_op=list_works&sortby=pubdate"
   orcid: "https://orcid.org/0000-0002-6830-6239"
   github           : "katherinegold"
