@@ -1,13 +1,9 @@
 ---
 layout: archive
-title:
+title: "Teaching and Mentoring"
 permalink: /teaching/
 author_profile: true
 ---
-Teaching and mentoring are important parts of my work as a scientist. I have taught students in astronomy, physics, physical chemistry, general chemistry, and mathematics in lecture, laboratory, discussion, and observational settings. I have also mentored undergraduate and graduate students through research, academic milestones, and preparation for graduate study.
-
-## Teaching
-
 ### University of Arizona
 
 #### Fall 2026
