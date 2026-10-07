@@ -14,11 +14,11 @@ My outreach has included virtual classroom visits, public astronomy events, tele
 
 I participate in **Skype a Scientist** and enjoy visiting classrooms virtually to talk about astronomy, astrochemistry, planetary nebulae, and what it is like to work as a scientist.
 
-If you are interested in inviting me to speak with your class, you can request me through Skype a Scientist.
+If you are interested in inviting me to speak with your class, you can search for **Katherine Gold** in the Skype a Scientist directory and request me when I have sessions available.
 
-I schedule a limited number of classroom visits throughout the year so that I can give each visit the time and attention it deserves. I’d be happy to hear from you!
+I choose a limited number of classroom visits throughout the year so that I can give each visit the time and attention it deserves. I’d be happy to hear from you!
 
-**[Request a classroom visit through Skype a Scientist](INSERT-LINK-HERE)**
+**[Find me through Skype a Scientist](https://confirm.skypeascientist.com/search)**
 
 I am also happy to hear from student organizations and community groups interested in astronomy or astrochemistry presentations.
 
